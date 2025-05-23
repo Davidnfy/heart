@@ -1,0 +1,12 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Prevents scrollbars from appearing */
+}
+
+#alx {
+    display: block; /* Removes the inline-block space */
+    width: 100vw; /* Full width of the viewport */
+    height: 100vh; /* Full height of the viewport */
+    background-color: black; /* Optional: Set a background color */
+}
